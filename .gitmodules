@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:spring2020-cs160-Team-IceCream/foodstar-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:spring2020-cs160-Team-IceCream/foodstar-backend.git
